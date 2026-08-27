@@ -1,0 +1,2 @@
+"""Plain-language accessibility auditor."""
+
